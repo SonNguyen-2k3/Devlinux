@@ -1,0 +1,5 @@
+[2025-09-26 22:29:28] [INFO] [main.c:14] - Application started
+[2025-09-26 22:29:28] [WARNING] [main.c:16] - Low disk space: 12% remaining
+[2025-09-26 22:29:28] [ERROR] [main.c:17] - Failed to open resource: code=-5
+[2025-09-26 22:29:28] [DEBUG] [main.c:21] - Now DEBUG messages are enabled (value=123)
+[2025-09-26 22:29:28] [CRITICAL] [main.c:24] - Out of memory while allocating buffer

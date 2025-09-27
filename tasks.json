@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build logger demo",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-std=c99",
+                "logger.c",
+                "main.c",
+                "-o",
+                "demo"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
